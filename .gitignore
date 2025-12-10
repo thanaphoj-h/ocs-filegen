@@ -1,0 +1,6 @@
+
+# IDE Configuration
+.idea
+
+# Python Virtual Environment
+.venv
